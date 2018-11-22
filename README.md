@@ -1,4 +1,4 @@
-# altair-tutorial
+# Altair-tutorial
 Notebooks de tutorial de Altair PyCon 2018
 
 Contenido  [notebooks/Index.ipynb](notebooks/Index.ipynb)
