@@ -1,17 +1,17 @@
 # altair-tutorial
-Notebooks for the Altair tutorial, given at PyCon 2018
+Notebooks de tutorial de Altair PyCon 2018
 
-View the content at [notebooks/Index.ipynb](notebooks/Index.ipynb)
+Contenido  [notebooks/Index.ipynb](notebooks/Index.ipynb)
 
-Intro slides on [SpeakerDeck](https://speakerdeck.com/jakevdp/altair-tutorial-intro-pycon-2018)
+Slides [SpeakerDeck](https://speakerdeck.com/jakevdp/altair-tutorial-intro-pycon-2018)
 
-See the video [on YouTube](https://www.youtube.com/watch?v=ms29ZPUKxbU)
+Video explicativo [on YouTube](https://www.youtube.com/watch?v=ms29ZPUKxbU)
 
-See the Altair documentation at http://altair-viz.github.io/
+Documentación de Altair http://altair-viz.github.io/
 
-## Run the Tutorial
+## Run el Tutorial
 
-If you have a Google/Gmail account, you can Run this tutorial from your browser using Colab: [Open in Colab](https://colab.research.google.com/github/altair-viz/altair-tutorial/blob/master/notebooks/Index.ipynb).
+Si tenes cuenta Google/Gmail , podes correr el tutorial en Colab: [Open in Colab](https://colab.research.google.com/github/altair-viz/altair-tutorial/blob/master/notebooks/Index.ipynb).
 
-Also you can run in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/altair-viz/altair-tutorial.git/master)
-(Remember to enable the **notebook** renderer)
+Tambien tenes Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/altair-viz/altair-tutorial.git/master)
+(Recuerda habilitar  el **notebook** renderer)
